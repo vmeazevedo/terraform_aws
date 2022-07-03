@@ -1,0 +1,4 @@
+terraform init = inicializa o repo do terraform
+terraform plan
+terraform apply = cria nosso resource na aws
+terraform destroy = apaga o resource criado
